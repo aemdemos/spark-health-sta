@@ -1,0 +1,1183 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/",
+          "urlHash": "01a4f1f580b8532bef704f138134761da1d3b862",
+          "uuid": "01a4f1f5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+          "urlHash": "0e72a84febe5c306170493e0f432d17310440349",
+          "uuid": "0e72a84f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+          "urlHash": "1211c788518feed2b7a194a52b909214f8916d96",
+          "uuid": "1211c788-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+          "urlHash": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc",
+          "uuid": "22cc3ecb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+          "urlHash": "4187facef70a90808dcb63d090597ca905538734",
+          "uuid": "4187face-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/our-story/",
+          "urlHash": "4234c141b7d60fa133f996ea77099edb70e60a1c",
+          "uuid": "4234c141-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+          "urlHash": "48ffc9aa9b4fb789a033953ff50057c8c405655e",
+          "uuid": "48ffc9aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/",
+          "urlHash": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492",
+          "uuid": "4a517fe5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+          "urlHash": "4de599e6389ca99741263a136ca25b02da975dd6",
+          "uuid": "4de599e6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+          "urlHash": "5249fa5160616bf83e160cad9ad18ade0cc49d90",
+          "uuid": "5249fa51-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+          "urlHash": "60e4b08d8ed341d4ecbac68f155f8d226a36bc1e",
+          "uuid": "60e4b08d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+          "urlHash": "61f3e82b1985f022d0cd46cf0a4d62cc2e5fbb2b",
+          "uuid": "61f3e82b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/contact/",
+          "urlHash": "747a061eb5d386298a799995d28eb586454c8ebb",
+          "uuid": "747a061e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+          "urlHash": "7706fc9102e4f0cd515099725218ce1986b550da",
+          "uuid": "7706fc91-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+          "urlHash": "7a99e49723417b0786145c474f542721d9451fbd",
+          "uuid": "7a99e497-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+          "urlHash": "7f42b29cf8066b8812159750b4bfb1deb2c5a5df",
+          "uuid": "7f42b29c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+          "urlHash": "7f6e9c7d0529c5aecfc997ff2bd371890861b16d",
+          "uuid": "7f6e9c7d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+          "urlHash": "8083bf1e3f88b0eebcb38f7b8abad83fa7e2283e",
+          "uuid": "8083bf1e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+          "urlHash": "88ba215aa8b783763ff88fb8e30da055e4b1facf",
+          "uuid": "88ba215a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/privacy-policy/",
+          "urlHash": "8cc88bd09ac49def2647939a6e1118d676c1d20c",
+          "uuid": "8cc88bd0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+          "urlHash": "910b6f79dee3f49ecd0d7667cfa66be05312db5a",
+          "uuid": "910b6f79-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+          "urlHash": "92eff5832a3fb4fc9d9eac9732ba8e52de6256ed",
+          "uuid": "92eff583-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+          "urlHash": "9ca4f8a8091b3f085a300be5259c17b8802786b3",
+          "uuid": "9ca4f8a8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/news-media/",
+          "urlHash": "a2681afb856c08a9624bd849dec3fbf9de409afd",
+          "uuid": "a2681afb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+          "urlHash": "a74617f8226916532ffe4e13dd3f849814ffa6d5",
+          "uuid": "a74617f8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+          "urlHash": "add7679aff57ea395008cf6fd1a918fd0db48d21",
+          "uuid": "add7679a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+          "urlHash": "af18d6ce4d9c54882a095d7535ba9f30869bb55f",
+          "uuid": "af18d6ce-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+          "urlHash": "afe003613bb3f4e237a0c33f27af41c01f6f0510",
+          "uuid": "afe00361-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+          "urlHash": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3",
+          "uuid": "b0d79eea-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/services/",
+          "urlHash": "b7f794b5f743b3c3549d9a4a53e7b391f8c49d05",
+          "uuid": "b7f794b5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/please-complete-profile/",
+          "urlHash": "c572962ce69b708fb9b21337bb26baad83503926",
+          "uuid": "c572962c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/insights/",
+          "urlHash": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701",
+          "uuid": "c6e95976-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/",
+          "urlHash": "c9a4f4880fb7f8a3801cb80246eb4186964d5714",
+          "uuid": "c9a4f488-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+          "urlHash": "cab8e32b8fcc803f6e075feb97811187da1896f9",
+          "uuid": "cab8e32b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/",
+          "urlHash": "d5918667c1db85a5fb62f41736719042df2ba811",
+          "uuid": "d5918667-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+          "urlHash": "d7fc1ccd5edc10ee6e7f88f731de928b4442d0a6",
+          "uuid": "d7fc1ccd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+          "urlHash": "dc1f35d250362ebd20820aa8cfe81fc1a281e6f4",
+          "uuid": "dc1f35d2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+          "urlHash": "e4f9d276149e39631551da4e0a56af1b0ecb14a0",
+          "uuid": "e4f9d276-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+          "urlHash": "f47f16d291fbff55cf95b648be9938213088072d",
+          "uuid": "f47f16d2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+          "urlHash": "fa6131c7ea186a07bd49474616c166a5a2182e1d",
+          "uuid": "fa6131c7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/",
+          "urlHash": "01a4f1f580b8532bef704f138134761da1d3b862",
+          "uuid": "01a4f1f5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+          "urlHash": "0e72a84febe5c306170493e0f432d17310440349",
+          "uuid": "0e72a84f-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+          "urlHash": "1211c788518feed2b7a194a52b909214f8916d96",
+          "uuid": "1211c788-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+          "urlHash": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc",
+          "uuid": "22cc3ecb-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+          "urlHash": "4187facef70a90808dcb63d090597ca905538734",
+          "uuid": "4187face-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/our-story/",
+          "urlHash": "4234c141b7d60fa133f996ea77099edb70e60a1c",
+          "uuid": "4234c141-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+          "urlHash": "48ffc9aa9b4fb789a033953ff50057c8c405655e",
+          "uuid": "48ffc9aa-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/",
+          "urlHash": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492",
+          "uuid": "4a517fe5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+          "urlHash": "4de599e6389ca99741263a136ca25b02da975dd6",
+          "uuid": "4de599e6-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+          "urlHash": "5249fa5160616bf83e160cad9ad18ade0cc49d90",
+          "uuid": "5249fa51-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+          "urlHash": "60e4b08d8ed341d4ecbac68f155f8d226a36bc1e",
+          "uuid": "60e4b08d-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+          "urlHash": "61f3e82b1985f022d0cd46cf0a4d62cc2e5fbb2b",
+          "uuid": "61f3e82b-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/contact/",
+          "urlHash": "747a061eb5d386298a799995d28eb586454c8ebb",
+          "uuid": "747a061e-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+          "urlHash": "7706fc9102e4f0cd515099725218ce1986b550da",
+          "uuid": "7706fc91-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+          "urlHash": "7a99e49723417b0786145c474f542721d9451fbd",
+          "uuid": "7a99e497-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+          "urlHash": "7f42b29cf8066b8812159750b4bfb1deb2c5a5df",
+          "uuid": "7f42b29c-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+          "urlHash": "7f6e9c7d0529c5aecfc997ff2bd371890861b16d",
+          "uuid": "7f6e9c7d-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+          "urlHash": "8083bf1e3f88b0eebcb38f7b8abad83fa7e2283e",
+          "uuid": "8083bf1e-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+          "urlHash": "88ba215aa8b783763ff88fb8e30da055e4b1facf",
+          "uuid": "88ba215a-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/privacy-policy/",
+          "urlHash": "8cc88bd09ac49def2647939a6e1118d676c1d20c",
+          "uuid": "8cc88bd0-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+          "urlHash": "910b6f79dee3f49ecd0d7667cfa66be05312db5a",
+          "uuid": "910b6f79-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+          "urlHash": "92eff5832a3fb4fc9d9eac9732ba8e52de6256ed",
+          "uuid": "92eff583-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+          "urlHash": "9ca4f8a8091b3f085a300be5259c17b8802786b3",
+          "uuid": "9ca4f8a8-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/news-media/",
+          "urlHash": "a2681afb856c08a9624bd849dec3fbf9de409afd",
+          "uuid": "a2681afb-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+          "urlHash": "a74617f8226916532ffe4e13dd3f849814ffa6d5",
+          "uuid": "a74617f8-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+          "urlHash": "add7679aff57ea395008cf6fd1a918fd0db48d21",
+          "uuid": "add7679a-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+          "urlHash": "af18d6ce4d9c54882a095d7535ba9f30869bb55f",
+          "uuid": "af18d6ce-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+          "urlHash": "afe003613bb3f4e237a0c33f27af41c01f6f0510",
+          "uuid": "afe00361-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+          "urlHash": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3",
+          "uuid": "b0d79eea-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/services/",
+          "urlHash": "b7f794b5f743b3c3549d9a4a53e7b391f8c49d05",
+          "uuid": "b7f794b5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/please-complete-profile/",
+          "urlHash": "c572962ce69b708fb9b21337bb26baad83503926",
+          "uuid": "c572962c-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/insights/",
+          "urlHash": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701",
+          "uuid": "c6e95976-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/",
+          "urlHash": "c9a4f4880fb7f8a3801cb80246eb4186964d5714",
+          "uuid": "c9a4f488-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+          "urlHash": "cab8e32b8fcc803f6e075feb97811187da1896f9",
+          "uuid": "cab8e32b-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/",
+          "urlHash": "d5918667c1db85a5fb62f41736719042df2ba811",
+          "uuid": "d5918667-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+          "urlHash": "d7fc1ccd5edc10ee6e7f88f731de928b4442d0a6",
+          "uuid": "d7fc1ccd-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+          "urlHash": "dc1f35d250362ebd20820aa8cfe81fc1a281e6f4",
+          "uuid": "dc1f35d2-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+          "urlHash": "e4f9d276149e39631551da4e0a56af1b0ecb14a0",
+          "uuid": "e4f9d276-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+          "urlHash": "f47f16d291fbff55cf95b648be9938213088072d",
+          "uuid": "f47f16d2-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+          "urlHash": "fa6131c7ea186a07bd49474616c166a5a2182e1d",
+          "uuid": "fa6131c7-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+          "urlHash": "60e4b08d8ed341d4ecbac68f155f8d226a36bc1e",
+          "uuid": "60e4b08d-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+          "urlHash": "7706fc9102e4f0cd515099725218ce1986b550da",
+          "uuid": "7706fc91-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+          "urlHash": "af18d6ce4d9c54882a095d7535ba9f30869bb55f",
+          "uuid": "af18d6ce-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+          "urlHash": "dc1f35d250362ebd20820aa8cfe81fc1a281e6f4",
+          "uuid": "dc1f35d2-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+          "urlHash": "0e72a84febe5c306170493e0f432d17310440349",
+          "uuid": "0e72a84f-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+          "urlHash": "d7fc1ccd5edc10ee6e7f88f731de928b4442d0a6",
+          "uuid": "d7fc1ccd-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+          "urlHash": "48ffc9aa9b4fb789a033953ff50057c8c405655e",
+          "uuid": "48ffc9aa-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+          "urlHash": "4de599e6389ca99741263a136ca25b02da975dd6",
+          "uuid": "4de599e6-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+          "urlHash": "afe003613bb3f4e237a0c33f27af41c01f6f0510",
+          "uuid": "afe00361-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/",
+          "urlHash": "01a4f1f580b8532bef704f138134761da1d3b862",
+          "uuid": "01a4f1f5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+          "urlHash": "0e72a84febe5c306170493e0f432d17310440349",
+          "uuid": "0e72a84f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+          "urlHash": "1211c788518feed2b7a194a52b909214f8916d96",
+          "uuid": "1211c788-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+          "urlHash": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc",
+          "uuid": "22cc3ecb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+          "urlHash": "4187facef70a90808dcb63d090597ca905538734",
+          "uuid": "4187face-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/our-story/",
+          "urlHash": "4234c141b7d60fa133f996ea77099edb70e60a1c",
+          "uuid": "4234c141-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+          "urlHash": "48ffc9aa9b4fb789a033953ff50057c8c405655e",
+          "uuid": "48ffc9aa-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/",
+          "urlHash": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492",
+          "uuid": "4a517fe5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+          "urlHash": "4de599e6389ca99741263a136ca25b02da975dd6",
+          "uuid": "4de599e6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+          "urlHash": "5249fa5160616bf83e160cad9ad18ade0cc49d90",
+          "uuid": "5249fa51-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+          "urlHash": "60e4b08d8ed341d4ecbac68f155f8d226a36bc1e",
+          "uuid": "60e4b08d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+          "urlHash": "61f3e82b1985f022d0cd46cf0a4d62cc2e5fbb2b",
+          "uuid": "61f3e82b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/contact/",
+          "urlHash": "747a061eb5d386298a799995d28eb586454c8ebb",
+          "uuid": "747a061e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+          "urlHash": "7706fc9102e4f0cd515099725218ce1986b550da",
+          "uuid": "7706fc91-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+          "urlHash": "7a99e49723417b0786145c474f542721d9451fbd",
+          "uuid": "7a99e497-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+          "urlHash": "7f42b29cf8066b8812159750b4bfb1deb2c5a5df",
+          "uuid": "7f42b29c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+          "urlHash": "7f6e9c7d0529c5aecfc997ff2bd371890861b16d",
+          "uuid": "7f6e9c7d-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+          "urlHash": "8083bf1e3f88b0eebcb38f7b8abad83fa7e2283e",
+          "uuid": "8083bf1e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+          "urlHash": "88ba215aa8b783763ff88fb8e30da055e4b1facf",
+          "uuid": "88ba215a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/legal/privacy-policy/",
+          "urlHash": "8cc88bd09ac49def2647939a6e1118d676c1d20c",
+          "uuid": "8cc88bd0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+          "urlHash": "910b6f79dee3f49ecd0d7667cfa66be05312db5a",
+          "uuid": "910b6f79-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+          "urlHash": "92eff5832a3fb4fc9d9eac9732ba8e52de6256ed",
+          "uuid": "92eff583-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+          "urlHash": "9ca4f8a8091b3f085a300be5259c17b8802786b3",
+          "uuid": "9ca4f8a8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/news-media/",
+          "urlHash": "a2681afb856c08a9624bd849dec3fbf9de409afd",
+          "uuid": "a2681afb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+          "urlHash": "a74617f8226916532ffe4e13dd3f849814ffa6d5",
+          "uuid": "a74617f8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+          "urlHash": "add7679aff57ea395008cf6fd1a918fd0db48d21",
+          "uuid": "add7679a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+          "urlHash": "af18d6ce4d9c54882a095d7535ba9f30869bb55f",
+          "uuid": "af18d6ce-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+          "urlHash": "afe003613bb3f4e237a0c33f27af41c01f6f0510",
+          "uuid": "afe00361-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+          "urlHash": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3",
+          "uuid": "b0d79eea-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/services/",
+          "urlHash": "b7f794b5f743b3c3549d9a4a53e7b391f8c49d05",
+          "uuid": "b7f794b5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/please-complete-profile/",
+          "urlHash": "c572962ce69b708fb9b21337bb26baad83503926",
+          "uuid": "c572962c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/category/insights/",
+          "urlHash": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701",
+          "uuid": "c6e95976-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/",
+          "urlHash": "c9a4f4880fb7f8a3801cb80246eb4186964d5714",
+          "uuid": "c9a4f488-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+          "urlHash": "cab8e32b8fcc803f6e075feb97811187da1896f9",
+          "uuid": "cab8e32b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/",
+          "urlHash": "d5918667c1db85a5fb62f41736719042df2ba811",
+          "uuid": "d5918667-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+          "urlHash": "d7fc1ccd5edc10ee6e7f88f731de928b4442d0a6",
+          "uuid": "d7fc1ccd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+          "urlHash": "dc1f35d250362ebd20820aa8cfe81fc1a281e6f4",
+          "uuid": "dc1f35d2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+          "urlHash": "e4f9d276149e39631551da4e0a56af1b0ecb14a0",
+          "uuid": "e4f9d276-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+          "urlHash": "f47f16d291fbff55cf95b648be9938213088072d",
+          "uuid": "f47f16d2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+          "urlHash": "fa6131c7ea186a07bd49474616c166a5a2182e1d",
+          "uuid": "fa6131c7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+          "urlHash": "61f3e82b1985f022d0cd46cf0a4d62cc2e5fbb2b",
+          "uuid": "61f3e82b-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+          "urlHash": "4187facef70a90808dcb63d090597ca905538734",
+          "uuid": "4187face-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+          "urlHash": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc",
+          "uuid": "22cc3ecb-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+          "urlHash": "5249fa5160616bf83e160cad9ad18ade0cc49d90",
+          "uuid": "5249fa51-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+          "urlHash": "fa6131c7ea186a07bd49474616c166a5a2182e1d",
+          "uuid": "fa6131c7-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/",
+          "urlHash": "d5918667c1db85a5fb62f41736719042df2ba811",
+          "uuid": "d5918667-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/legal/",
+          "urlHash": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492",
+          "uuid": "4a517fe5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/please-complete-profile/",
+          "urlHash": "c572962ce69b708fb9b21337bb26baad83503926",
+          "uuid": "c572962c-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/our-story/",
+          "urlHash": "4234c141b7d60fa133f996ea77099edb70e60a1c",
+          "uuid": "4234c141-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+          "urlHash": "7f6e9c7d0529c5aecfc997ff2bd371890861b16d",
+          "uuid": "7f6e9c7d-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+          "urlHash": "cab8e32b8fcc803f6e075feb97811187da1896f9",
+          "uuid": "cab8e32b-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+          "urlHash": "e4f9d276149e39631551da4e0a56af1b0ecb14a0",
+          "uuid": "e4f9d276-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+          "urlHash": "8083bf1e3f88b0eebcb38f7b8abad83fa7e2283e",
+          "uuid": "8083bf1e-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+          "urlHash": "7f42b29cf8066b8812159750b4bfb1deb2c5a5df",
+          "uuid": "7f42b29c-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+          "urlHash": "1211c788518feed2b7a194a52b909214f8916d96",
+          "uuid": "1211c788-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/services/",
+          "urlHash": "b7f794b5f743b3c3549d9a4a53e7b391f8c49d05",
+          "uuid": "b7f794b5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/category/news-media/",
+          "urlHash": "a2681afb856c08a9624bd849dec3fbf9de409afd",
+          "uuid": "a2681afb-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+          "urlHash": "88ba215aa8b783763ff88fb8e30da055e4b1facf",
+          "uuid": "88ba215a-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+          "urlHash": "9ca4f8a8091b3f085a300be5259c17b8802786b3",
+          "uuid": "9ca4f8a8-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+          "urlHash": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3",
+          "uuid": "b0d79eea-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/",
+          "urlHash": "01a4f1f580b8532bef704f138134761da1d3b862",
+          "uuid": "01a4f1f5-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 25,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+          "urlHash": "f47f16d291fbff55cf95b648be9938213088072d",
+          "uuid": "f47f16d2-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 26,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/",
+          "urlHash": "c9a4f4880fb7f8a3801cb80246eb4186964d5714",
+          "uuid": "c9a4f488-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+          "urlHash": "add7679aff57ea395008cf6fd1a918fd0db48d21",
+          "uuid": "add7679a-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 28,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/contact/",
+          "urlHash": "747a061eb5d386298a799995d28eb586454c8ebb",
+          "uuid": "747a061e-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+          "urlHash": "7a99e49723417b0786145c474f542721d9451fbd",
+          "uuid": "7a99e497-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 30,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/legal/privacy-policy/",
+          "urlHash": "8cc88bd09ac49def2647939a6e1118d676c1d20c",
+          "uuid": "8cc88bd0-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 31,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+          "urlHash": "910b6f79dee3f49ecd0d7667cfa66be05312db5a",
+          "uuid": "910b6f79-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 32,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/category/insights/",
+          "urlHash": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701",
+          "uuid": "c6e95976-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 33,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+          "urlHash": "92eff5832a3fb4fc9d9eac9732ba8e52de6256ed",
+          "uuid": "92eff583-01-d281e593b5936ebff569129ffd75a8bfe60377c3",
+          "xpath": "/html[1]/body[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 34,
+      "instances": [
+        {
+          "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+          "urlHash": "a74617f8226916532ffe4e13dd3f849814ffa6d5",
+          "uuid": "a74617f8-01-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    }
+  ],
+  "outliers": []
+}
