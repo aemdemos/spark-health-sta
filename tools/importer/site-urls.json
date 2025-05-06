@@ -4,79 +4,163 @@
   "urls": [
     {
       "url": "https://sparkhealth.nz/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/category/insights/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/category/news-media/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/blog/the-power-of-data/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/contact/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/legal/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/legal/privacy-policy/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/our-story/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/please-complete-profile/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/services/",
+      "source": "SITEMAPS"
     },
     {
       "url": "https://sparkhealth.nz/solutions/",
-      "source": "CRAWL"
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+      "source": "SITEMAPS"
     }
   ],
   "crawlOptions": {
@@ -86,25 +170,13 @@
     "limit": -1,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "crawl",
+    "strategy": "SITEMAPS",
     "logger": {}
   },
   "extractionErrors": [
     {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-DemiBold.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Regular.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Medium.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff",
-      "status": "content type is not text/html"
+      "url": "/sitemap_index.xml",
+      "status": "parseSitemapFromUrl (/sitemap_index.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Failed to parse URL from /sitemap_index.xml"
     }
   ]
 }
