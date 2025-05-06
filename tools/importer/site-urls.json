@@ -4,75 +4,75 @@
   "urls": [
     {
       "url": "https://sparkhealth.nz/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/category/insights/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/category/news-media/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/blog/the-power-of-data/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/contact/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/legal/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/legal/privacy-policy/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/our-story/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/please-complete-profile/",
@@ -84,7 +84,7 @@
     },
     {
       "url": "https://sparkhealth.nz/solutions/",
-      "source": "SITEMAPS"
+      "source": "CRAWL"
     },
     {
       "url": "https://sparkhealth.nz/solutions/access-expert-support/",
@@ -170,13 +170,25 @@
     "limit": -1,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "SITEMAPS",
+    "strategy": "crawl",
     "logger": {}
   },
   "extractionErrors": [
     {
-      "url": "/sitemap_index.xml",
-      "status": "parseSitemapFromUrl (/sitemap_index.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Failed to parse URL from /sitemap_index.xml"
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-DemiBold.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Regular.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Medium.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff",
+      "status": "content type is not text/html"
     }
   ]
 }
