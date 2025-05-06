@@ -1,0 +1,110 @@
+{
+  "originUrl": "https://sparkhealth.nz",
+  "lastCrawled": "https://sparkhealth.nz/",
+  "urls": [
+    {
+      "url": "https://sparkhealth.nz/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/category/insights/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/category/news-media/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/contact/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/legal/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/legal/privacy-policy/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/our-story/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-DemiBold.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Regular.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Medium.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff",
+      "status": "content type is not text/html"
+    }
+  ]
+}
