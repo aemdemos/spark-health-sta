@@ -75,8 +75,92 @@
       "source": "CRAWL"
     },
     {
+      "url": "https://sparkhealth.nz/please-complete-profile/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/services/",
+      "source": "SITEMAPS"
+    },
+    {
       "url": "https://sparkhealth.nz/solutions/",
       "source": "CRAWL"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+      "source": "SITEMAPS"
     }
   ],
   "crawlOptions": {
